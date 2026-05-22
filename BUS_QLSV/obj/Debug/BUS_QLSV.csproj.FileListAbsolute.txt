@@ -1,0 +1,11 @@
+C:\Users\HONG NGOC\Source\Repos\QLSV\BUS_QLSV\bin\Debug\BUS_QLSV.dll
+C:\Users\HONG NGOC\Source\Repos\QLSV\BUS_QLSV\bin\Debug\BUS_QLSV.pdb
+C:\Users\HONG NGOC\Source\Repos\QLSV\BUS_QLSV\bin\Debug\DAL_QLSV.dll
+C:\Users\HONG NGOC\Source\Repos\QLSV\BUS_QLSV\bin\Debug\DTO_QLSV.dll
+C:\Users\HONG NGOC\Source\Repos\QLSV\BUS_QLSV\bin\Debug\DAL_QLSV.pdb
+C:\Users\HONG NGOC\Source\Repos\QLSV\BUS_QLSV\bin\Debug\DTO_QLSV.pdb
+C:\Users\HONG NGOC\Source\Repos\QLSV\BUS_QLSV\obj\Debug\BUS_QLSV.csproj.AssemblyReference.cache
+C:\Users\HONG NGOC\Source\Repos\QLSV\BUS_QLSV\obj\Debug\BUS_QLSV.csproj.CoreCompileInputs.cache
+C:\Users\HONG NGOC\Source\Repos\QLSV\BUS_QLSV\obj\Debug\BUS_QLSV.csproj.Up2Date
+C:\Users\HONG NGOC\Source\Repos\QLSV\BUS_QLSV\obj\Debug\BUS_QLSV.dll
+C:\Users\HONG NGOC\Source\Repos\QLSV\BUS_QLSV\obj\Debug\BUS_QLSV.pdb
