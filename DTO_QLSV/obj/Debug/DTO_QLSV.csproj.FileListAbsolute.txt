@@ -1,0 +1,6 @@
+C:\Users\HONG NGOC\Source\Repos\QLSV\DTO_QLSV\bin\Debug\DTO_QLSV.dll
+C:\Users\HONG NGOC\Source\Repos\QLSV\DTO_QLSV\bin\Debug\DTO_QLSV.pdb
+C:\Users\HONG NGOC\Source\Repos\QLSV\DTO_QLSV\obj\Debug\DTO_QLSV.csproj.AssemblyReference.cache
+C:\Users\HONG NGOC\Source\Repos\QLSV\DTO_QLSV\obj\Debug\DTO_QLSV.csproj.CoreCompileInputs.cache
+C:\Users\HONG NGOC\Source\Repos\QLSV\DTO_QLSV\obj\Debug\DTO_QLSV.dll
+C:\Users\HONG NGOC\Source\Repos\QLSV\DTO_QLSV\obj\Debug\DTO_QLSV.pdb
